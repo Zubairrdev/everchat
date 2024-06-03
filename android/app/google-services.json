@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "960900539226",
+    "project_id": "everchat-bd0e4",
+    "storage_bucket": "everchat-bd0e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960900539226:android:eb2df680e0730051324963",
+        "android_client_info": {
+          "package_name": "com.example.everchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFLCqNzXcorCrW78CdbwncTMTWUIkFN7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
